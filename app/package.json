@@ -1,7 +1,7 @@
 {
   "name": "electron-app",
-  "version": "1.0.4",
-  "description": "My test electron app",
+  "version": "1.0.5",
+  "description": "My test electron Update",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,7 @@
     "releaseType": "release"
   },
   "build": {
-    "appId": "com.coderjeet.autoupdater",
+    "appId": "com.prakashpsde.autoupdater",
     "productName": "Autoupdater app",
     "win": {
       "target": "nsis"
