@@ -1,7 +1,7 @@
 {
   "name": "electron-app",
-  "version": "2.0.0",
-  "description": "My test electron Update",
+  "version": "1.0.0",
+  "description": "My test electron app",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,7 +24,7 @@
       "output": "dist"
     }
   },
-  "author": "CoderJeet",
+  "author": "Prakash",
   "license": "ISC",
   "devDependencies": {
     "electron": "^19.0.9",
